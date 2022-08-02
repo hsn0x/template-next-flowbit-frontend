@@ -3,10 +3,8 @@
     "version": "0.1.0",
     "private": true,
     "description": "template next flowbit frontend",
-    "main": "src/index.js",
     "author": "Hassane Bendaoud <40140987+hsn0x@users.noreply.github.com>",
     "license": "MIT",
-    "type": "module",
     "repository": {
         "url": "https://github.com/hsn0x/template-next-flowbit-frontend.git",
         "type": "git",
